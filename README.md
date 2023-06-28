@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fred</h1>
 <h3 align="center">A Creative and passionate frontend developer from Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredegd" alt="fredegd" /></a> </p>
-
 - 🌱 I’m currently learning **Web & App Development @WBS Coding School**
 
 - ⚡ Fun fact **Fall in <3 with Coding by chance**
