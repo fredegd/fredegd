@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web & App Development @WBS Coding School**
 
-- ⚡ Fun fact **Fall in <3 with Coding by chance**
+- ⚡ Fun fact:  **I Fall in <3 with Coding by chance**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
