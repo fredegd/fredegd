@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tapiwohb" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="tapiwohb" height="30" width="40" /></a>
+<a href="https://twitter.com/tapiwohb" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="tapiwohb" height="30" width="40" background="#ffffff" /></a>
 <a href="https://instagram.com/tapiwo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" alt="tapiwo" height="40" width="40" /></a>
 </p>
 
