@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fred</h1>
 <h3 align="center">A Creative and passionate frontend developer from Germany</h3>
 
-- 🌱 I’m currently learning **Web & App Development @WBS Coding School**
+I am a Full-Stack Web developer/designer. My favorite web technologies include SVG, HTML, CSS, Tailwind, MUI JavaScript, Node, Vue, and React. When I'm not programming the Web, I love to program my own reality
 
-- ⚡ Fun fact:  **I Fall in <3 with Coding by chance**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
