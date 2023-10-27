@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fred</h1>
+# Hi i´m Fred
 <h3 align="center">I am a Full-Stack Web developer/designer from Germany <br/> My favorite web technologies include SVG, HTML, CSS, Tailwind, MUI JavaScript, Node, Vue, and React. When I'm not programming the Web, I love to program my own reality</h3>
 
 
