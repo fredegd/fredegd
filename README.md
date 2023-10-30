@@ -3,7 +3,7 @@
 <h3 align="center">I am a Full-Stack Web developer/designer from Germany <br/> My favorite web technologies include SVG, HTML, CSS, Tailwind, MUI JavaScript, Node, Vue, and React. When I'm not programming the Web, I love to program my own reality</h3>
 
 
-<div style="background:red;">
+<div style="color:red;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tapiwohb" target="blank" <
@@ -11,6 +11,7 @@
 <a href="https://instagram.com/tapiwo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" alt="tapiwo" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/federicoegidi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Linkedin" height="40" width="40" /></a>
 </p>
+  dicocana
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
