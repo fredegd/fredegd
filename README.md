@@ -5,12 +5,13 @@
 
 <div >
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="color:red;">
+<p align="left" color="red">
 <a href="https://twitter.com/tapiwohb" target="blank" <
   ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="tapiwohb" height="30" width="40" style="background-color:"#ffffff""/></a>
 <a href="https://instagram.com/tapiwo" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" alt="tapiwo" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/federicoegidi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Linkedin" height="40" width="40" /></a>
 </p>
+  ciao
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
