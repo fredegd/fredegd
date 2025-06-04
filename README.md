@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Fred</h1>
+<h1 align="left">Hi 👋, I'm Fred</h1>
 
-<h3 align="center">
+<h3 align="left">
   I am a Full-Stack Web developer/designer from Germany <br/>
   My favorite web technologies include SVG, HTML, CSS, Tailwind, JavaScript, Typescript, Node, Vue, and React.
   When I'm not programming the Web, I love sketching on <a href="https://processing.org/">Processing</a>
