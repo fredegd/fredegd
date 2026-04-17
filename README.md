@@ -2,12 +2,12 @@
 
 
 
-###  Full-Stack Web developer, Tech and Creativity Enthusiast <br>
-My favorite web technologies include SVG, HTML, CSS, Tailwind, JavaScript, Typescript, Node, and React.  
-When I'm not programming the Web, I love sketching with [Processing](https://processing.org/)  
+###  Full-Stack Web developer, Tech Enthusiast, Creative Human Being
+My favorite web technologies include HTML, CSS, JavaScript, Typescript, Node, and React, but also Java/Spring, PHP and all that stuff...  
+When I'm not programming the Web, I love sketching with <a href="https://processing.org/" target="_blank">Processing</a>  
 or draw witty Vectors with my Pen Plotter.
 
 ##Let's connect:
-[X/Twitter](https://twitter.com/tapiwohb)
-[LinkedIn](https://www.linkedin.com/in/federicoegidi)
-[Instagram](https://instagram.com/tapiwo)<span>
+<a href="https://twitter.com/tapiwohb" target="_blank">X/Twitter</a>  
+<a href="https://www.linkedin.com/in/federicoegidi" target="_blank">LinkedIn</a>  
+<a href="https://instagram.com/tapiwo" target="_blank">Instagram</a>
