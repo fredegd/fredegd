@@ -11,4 +11,4 @@ or draw witty Vectors with my Pen Plotter.
 <a href="https://twitter.com/tapiwohb" target="_blank" rel="noopener noreferrer">X/Twitter</a>  
 <a href="https://www.linkedin.com/in/federicoegidi" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
 <a href="https://instagram.com/tapiwo" target="_blank" rel="noopener noreferrer">Instagram</a>  
-[Home](fredegd.dev) {:target="_blank" rel="noopener"}
+[www](https://fredegd.dev) 
